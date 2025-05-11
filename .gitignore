@@ -1,2 +1,5 @@
+maths
+!maths.*
+!maths/
+
 *.o
-./maths
